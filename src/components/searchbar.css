@@ -1,0 +1,24 @@
+.mydiv{
+  margin: auto;
+}
+.search-bar{
+  padding: 66px;
+  margin: 22px;
+}
+.searchbox{
+  padding: 6px;
+  margin: 5px;
+}
+.city-box{
+  margin: 50px;
+  padding: 20px;
+  color: cornsilk;
+}
+.current-date{
+  color: cornsilk;
+
+}
+.footer{
+  color: cornsilk;
+  margin-top: 125px;
+}
